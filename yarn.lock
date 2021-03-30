@@ -95,6 +95,10 @@ angular-ui-router@1.0.3:
   dependencies:
     "@uirouter/core" "5.0.3"
 
+angular-ui-tree@^2.22.5:
+  version "2.22.6"
+  resolved "https://registry.yarnpkg.com/angular-ui-tree/-/angular-ui-tree-2.22.6.tgz#849727fdd1d13d84c1a590bb08934cc224e5a407"
+
 angular@^1.6:
   version "1.6.5"
   resolved "https://registry.yarnpkg.com/angular/-/angular-1.6.5.tgz#37f788eebec5ce2e3fa02b17bbcb2a231576a0d6"
@@ -4828,8 +4832,8 @@ xtend@^4.0.0, xtend@~4.0.1:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 yallist@^2.1.2:
   version "2.1.2"
